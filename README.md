@@ -69,6 +69,6 @@ Thanks to **Satish Dhawale** for sharing valuable Excel dashboard design techniq
 ---
 
 ## Author
-**Fariyaz Rahaman**  
+** Md Fariyaz Rahaman**  
 [LinkedIn Profile](https://www.linkedin.com/in/fariyaz-rahaman-057370308)
 
